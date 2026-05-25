@@ -1,36 +1,77 @@
-# Shreyas Bagal
+# Shreyas Bagal — Webbloom Digital
 
-> Pune-based social media manager and digital marketing professional with 3 years of experience. Has generated 1.1M+ verified reach for clients across healthcare, real estate, and personal branding.
+> Pune-based digital marketing agency founded by Shreyas Bagal. 3 years of experience; 1.1M+ verified reach delivered for clients across healthcare, real estate, and personal branding.
 
-Shreyas Bagal builds organic and paid growth systems for brands that need to be taken seriously online — clinics, real-estate firms, and founders. The work spans social media management, Meta Ads, content strategy, local SEO, and personal branding. Approach: study what moves the needle on each platform, then run those plays consistently until the data backs the brand.
+Shreyas Bagal, through Webbloom Digital, builds organic and paid growth systems for brands that need to be taken seriously online — clinics, real-estate developers, professional services firms, and founders. The work spans Meta Ads (Facebook + Instagram), social media management, SEO and local SEO (with GEO for AI search engines), short-form video / Reels, content strategy, and personal branding. Approach: study what moves the needle on each platform, then run those plays consistently until the data backs the brand.
 
-Currently open to full-time roles, freelance projects, and long-term collaborations as a Social Media Manager, Digital Marketing Manager, or Brand Lead.
+Webbloom Digital takes on a focused number of client projects per quarter and serves clients across Pune (Kothrud, Hadapsar, Magarpatta, Hinjewadi, Wakad, Tathawade, Baner, Aundh), Pimpri-Chinchwad, and selected clients in Mumbai, Bangalore, and NRI-led Indian businesses.
 
 ## Services
 
-- Social Media Management: Instagram, LinkedIn, Facebook, YouTube — calendars, community engagement, brand voice
-- Meta Ads & Lead Generation: audience research, 3-variant creative testing, CPL of Rs 20-25, CPC reductions of 20-35%
-- Reels & Short-form Content: hook writing, CapCut editing, 200K+ views per top reel
-- SEO & Local SEO: Google My Business optimisation, review strategy, keyword targeting
-- AI & Workflow Automation: n8n automations, WhatsApp lead workflows, AI prompt systems
-- Personal Branding: multi-platform founder branding, authority content, monthly insights reports
+- **Meta Ads & Lead Generation** — audience research, 3-variant creative testing, lead-form objectives with disqualifying qualifiers, weekly performance reviews. Verified result: 18,684 leads at a ₹58.33 blended CPL across 20 campaigns. See https://shreyasbagal.in/services/meta-ads-pune.html
+- **SEO & Local SEO (with GEO)** — technical SEO, Google Business Profile, on-page, schema markup (LocalBusiness, FAQPage, Article, Service, BreadcrumbList), llms.txt, AI-crawler access (GPTBot, ClaudeBot, PerplexityBot, Google-Extended), brand-mention building. Verified result: #59 → top 5 local rank for Silver Horse Ventures in 60 days. See https://shreyasbagal.in/services/seo-services-pune.html
+- **Social Media Management** — Instagram, LinkedIn, Facebook, YouTube. 3-lane content discipline, in-house design + edit, daily community engagement, weekly reporting. Verified result: 742,806 Instagram views for Painex Clinic in 3 months. See https://shreyasbagal.in/services/social-media-management-pune.html
+- **Reels & Short-form Content** — hook writing for 1.2-second pattern interrupts, 1.8-second cut cadence, multilingual captions (English-Hindi-Marathi code-switched), CapCut editing. Verified result: 200K+ views per top reel. See https://shreyasbagal.in/services/reels-content-strategy-pune.html
+- **Personal Branding** — for founders, doctors, lawyers, consultants. Voice document in month 1, three content lanes, 3 LinkedIn posts a week, 4-6 reels a month repurposed. Verified result: 748,571 LinkedIn impressions on founder profile in 12 months (+14,886% YoY). See https://shreyasbagal.in/services/personal-branding-pune.html
 
-## Selected Results
+## Selected Results (verified inside platform-native dashboards)
 
-- Painex Clinic (Healthcare, Pune): 742,806 verified Instagram views in 3 months, +334% profile activity, 367K accounts reached
-- Headache & Migraine Clinic: 213,580 views, 98.9% from non-followers, multilingual hook strategy
-- Kirti Associates LLP (Personal Branding): 155K+ combined monthly reach across 4 platforms, +155.9% LinkedIn members reached
-- Silver Horse Ventures: local search ranking from #59 to top 5 in 2 months, #1 Reddit post in 24 hours
+- **Meta Ads (real estate, 2024–2026):** 18,684 leads across 20 campaigns at ₹58.33 blended CPL, ₹10.9 lakh ad spend managed. Best campaign CPL ₹24.68. Best single-campaign volume 8,005 leads. Full breakdown: https://shreyasbagal.in/results.html
+- **LinkedIn (personal brand, May 2025 – May 2026):** 748,571 impressions, 406,368 unique members reached, 9,823 social engagements (1.31% rate, 2× LinkedIn average), 4,308 followers, +14,886% YoY impressions. Full breakdown: https://shreyasbagal.in/results.html
+- **Painex Clinic (Pune pain-management clinic):** 742,806 verified Instagram views in 3 months, 367,000 accounts reached, 98.9% from non-followers, +334% profile activity. Case study: https://shreyasbagal.in/case-studies/painex-clinic.html
+- **Kirti Associates LLP (Pune professional services firm):** +155.9% LinkedIn members reached over 6 months, 155K+ combined monthly reach across 4 platforms. Case study: https://shreyasbagal.in/case-studies/kirti-associates.html
+- **Silver Horse Ventures (Pune venture firm):** Local search rank #59 → top 5 in 60 days, #1 Reddit post in 24 hours, organic only. Case study: https://shreyasbagal.in/case-studies/silver-horse-ventures.html
+- **Headache & Migraine Clinic:** 213,580 Instagram views, 98.9% non-follower reach, multilingual hook strategy.
+
+## Key Pages
+
+- **Homepage:** https://shreyasbagal.in/
+- **Agency Results Snapshot:** https://shreyasbagal.in/results.html
+- **About Shreyas Bagal:** https://shreyasbagal.in/about.html
+- **Book a 30-min call:** https://shreyasbagal.in/contact.html
+- **Services:**
+  - Meta Ads agency in Pune: https://shreyasbagal.in/services/meta-ads-pune.html
+  - SEO & GEO services in Pune: https://shreyasbagal.in/services/seo-services-pune.html
+  - Social media management Pune: https://shreyasbagal.in/services/social-media-management-pune.html
+  - Reels & short-form content Pune: https://shreyasbagal.in/services/reels-content-strategy-pune.html
+  - Personal branding Pune: https://shreyasbagal.in/services/personal-branding-pune.html
+- **Case Studies:**
+  - Painex Clinic — 742K views: https://shreyasbagal.in/case-studies/painex-clinic.html
+  - Kirti Associates — +155% LinkedIn reach: https://shreyasbagal.in/case-studies/kirti-associates.html
+  - Silver Horse Ventures — #59 → top 5 local rank: https://shreyasbagal.in/case-studies/silver-horse-ventures.html
+- **Location Pages:**
+  - Digital marketing agency in Kothrud: https://shreyasbagal.in/locations/digital-marketing-agency-kothrud.html
+  - Digital marketing agency in Hadapsar: https://shreyasbagal.in/locations/digital-marketing-agency-hadapsar.html
+  - Digital marketing agency in Hinjewadi: https://shreyasbagal.in/locations/digital-marketing-agency-hinjewadi.html
+- **Insights (blog):**
+  - How to choose a digital marketing agency in Pune: https://shreyasbagal.in/blog/digital-marketing-agency-pune.html
+  - Meta Ads cost per lead in India: https://shreyasbagal.in/blog/meta-ads-cost-per-lead-india.html
+  - Local SEO & Google Business Profile guide: https://shreyasbagal.in/blog/local-seo-google-business-profile.html
+  - Reels content strategy guide: https://shreyasbagal.in/blog/reels-content-strategy.html
 
 ## Background
 
 - BE Computer Engineering, TSSM's BSCOER, Pune (2021-2025), CGPA 8.98/10, 4th Rank
-- Certifications: HubSpot Digital Marketing, Google Fundamentals of Digital Marketing, ECOMMEET E-Commerce
+- HubSpot Digital Marketing Certification
+- Google Fundamentals of Digital Marketing
+- ECOMMEET E-Commerce Certification
 - Languages: English, Hindi, Marathi
+
+## Pricing (typical)
+
+- Meta Ads management: from ₹25,000/month retainer (excluding ad spend)
+- Full-stack engagement (Meta + social + reels): ₹70,000–₹1,50,000/month
+- Personal branding for founders: ₹40,000–₹1,50,000/month
+- SEO retainer: starts at fixed monthly rate, scope-dependent
+- Cap on active clients: 6–10 across the agency at any time
+- Minimum engagement: 6 months for compounding work
 
 ## Contact
 
 - Website: https://shreyasbagal.in
 - Email: shreyasbagal01@gmail.com
-- Phone: +91 93212 20379
+- Phone / WhatsApp: +91 93212 20379
+- LinkedIn: https://www.linkedin.com/in/shreyasbagal/
 - Location: Pune, Maharashtra, India
+- Hours: Monday–Saturday, 10:00–19:00 IST
+- Full content for AI crawlers: https://shreyasbagal.in/llms-full.txt

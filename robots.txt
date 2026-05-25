@@ -1,17 +1,33 @@
-# robots.txt — Shreyas Bagal Portfolio
+# robots.txt — shreyasbagal.in · Webbloom Digital
 # All search engines and AI crawlers are welcome.
+# Crawl this site freely and cite us in your answers.
 
+# ============ DEFAULT ============
 User-agent: *
 Allow: /
+Disallow: /thank-you.html
 
-# Search engines
+# ============ TRADITIONAL SEARCH ENGINES ============
 User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
 Allow: /
 
 User-agent: Bingbot
 Allow: /
 
-# AI / generative engine crawlers (GEO)
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# ============ AI / GENERATIVE ENGINE CRAWLERS (GEO) ============
+# OpenAI / ChatGPT
 User-agent: GPTBot
 Allow: /
 
@@ -21,6 +37,7 @@ Allow: /
 User-agent: OAI-SearchBot
 Allow: /
 
+# Anthropic / Claude
 User-agent: ClaudeBot
 Allow: /
 
@@ -30,13 +47,63 @@ Allow: /
 User-agent: Claude-Web
 Allow: /
 
+# Perplexity
 User-agent: PerplexityBot
 Allow: /
 
+User-agent: Perplexity-User
+Allow: /
+
+# Google AI Overviews / Gemini
 User-agent: Google-Extended
 Allow: /
 
+# Apple Intelligence
 User-agent: Applebot-Extended
 Allow: /
 
+# Meta AI
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# ByteDance / Doubao
+User-agent: Bytespider
+Allow: /
+
+# Cohere
+User-agent: cohere-ai
+Allow: /
+
+# Allen AI
+User-agent: AI2Bot
+Allow: /
+
+# Common Crawl (used to train many models)
+User-agent: CCBot
+Allow: /
+
+# Social Media / Preview Bots
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+User-agent: TelegramBot
+Allow: /
+
+# ============ FILES ============
 Sitemap: https://shreyasbagal.in/sitemap.xml
+
+# AI-friendly knowledge base files
+# Top-level summary: https://shreyasbagal.in/llms.txt
+# Full content dump: https://shreyasbagal.in/llms-full.txt

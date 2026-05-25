@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Message received — Webbloom Digital</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="canonical" href="https://shreyasbagal.in/thank-you.html">
+<meta name="theme-color" content="#c2410c">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;1,9..144,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./pages.css">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7GPZJ1Z117"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-7GPZJ1Z117');
+  gtag('event', 'conversion', {'send_to': 'G-7GPZJ1Z117', 'event_category':'lead', 'event_label':'contact_form'});
+</script>
+</head>
+<body>
+
+<nav class="nav" id="nav">
+  <div class="nav-inner">
+    <a href="./index.html#top" class="nav-logo">Shreyas <b>Bagal</b></a>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="./index.html#about">About</a></li>
+      <li><a href="./index.html#services">Services</a></li>
+      <li><a href="./index.html#work">Work</a></li>
+      <li><a href="./results.html">Results</a></li>
+      <li><a href="./about.html">About</a></li>
+      <li><a href="./contact.html">Contact</a></li>
+    </ul>
+    <div class="nav-actions">
+      <a href="./contact.html" class="nav-cta">Let's talk</a>
+      <button class="nav-burger" id="navBurger" aria-label="Toggle menu" aria-expanded="false"><span></span></button>
+    </div>
+  </div>
+</nav>
+
+<section class="page-hero" style="padding-top:140px;text-align:center;">
+  <div class="eyebrow" style="margin:0 auto 24px;"><span class="dot"></span> Message received</div>
+  <h1 style="margin:0 auto 24px;">Got it. <em>I'll be in touch.</em></h1>
+  <p class="lead" style="margin:0 auto;">I read every message and reply within working hours (10:00–19:00 IST, Monday to Saturday). If you sent your WhatsApp number, expect a ping there too.</p>
+
+  <div style="margin-top:48px;display:inline-flex;gap:12px;flex-wrap:wrap;justify-content:center;">
+    <a href="./results.html" class="cta-btn" style="background:var(--ink);color:var(--cream);">See our verified results →</a>
+    <a href="./about.html" class="cta-btn outline" style="border:1px solid var(--ink);color:var(--ink);background:transparent;">About Shreyas</a>
+  </div>
+</section>
+
+<footer class="contact-section" id="contact" style="margin-top:96px;">
+  <div class="contact-inner">
+    <div class="contact-eyebrow"><span class="dot"></span> Webbloom Digital · Now taking on new clients</div>
+    <div class="contact-grid">
+      <div class="contact-item"><div class="lbl">— Email</div><div class="val"><a href="mailto:shreyasbagal01@gmail.com">shreyasbagal01<br>@gmail.com</a></div></div>
+      <div class="contact-item"><div class="lbl">— Phone</div><div class="val"><a href="tel:+919321220379">+91 93212 20379</a></div></div>
+      <div class="contact-item"><div class="lbl">— Location</div><div class="val">Pune, Maharashtra<br>India</div></div>
+      <div class="contact-item"><div class="lbl">— Agency</div><div class="val">Webbloom Digital<br>Taking new clients</div></div>
+    </div>
+  </div>
+</footer>
+
+<script>
+const nav = document.getElementById('nav');
+window.addEventListener('scroll', () => { nav.classList.toggle('scrolled', window.scrollY > 20); }, {passive:true});
+const burger = document.getElementById('navBurger'), navLinks = document.getElementById('navLinks');
+const toggleMenu = (force) => {
+  const willOpen = force !== undefined ? force : !burger.classList.contains('open');
+  burger.classList.toggle('open', willOpen); navLinks.classList.toggle('open', willOpen);
+  burger.setAttribute('aria-expanded', willOpen);
+  document.body.style.overflow = willOpen ? 'hidden' : '';
+};
+burger.addEventListener('click', () => toggleMenu());
+navLinks.querySelectorAll('a').forEach(a => a.addEventListener('click', () => toggleMenu(false)));
+</script>
+
+</body>
+</html>

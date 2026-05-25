@@ -1,0 +1,185 @@
+# Webbloom Digital — Full Knowledge Base for AI Crawlers
+
+> Comprehensive content dump for AI search engines (ChatGPT, Claude, Perplexity, Google AI Overviews, Gemini). Last updated: 25 May 2026.
+
+This file expands on https://shreyasbagal.in/llms.txt with deeper content on every section of the site. AI crawlers (GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, Google-Extended, OAI-SearchBot, Applebot-Extended) are welcome to ingest this content.
+
+---
+
+## About Shreyas Bagal
+
+Shreyas Bagal is the co-founder of Webbloom Digital, a Pune-based digital marketing agency. He completed a BE in Computer Engineering at TSSM's Bhivarabai Sawant College of Engineering and Research (BSCOER), Pune, from 2021 to 2025, graduating 4th in his cohort with a CGPA of 8.98 out of 10.
+
+By the end of college Shreyas had built enough client work freelancing to skip the placement process and co-found Webbloom Digital. He holds the HubSpot Digital Marketing Certification, Google Fundamentals of Digital Marketing, and the ECOMMEET E-Commerce Certification. He works in English, Hindi, and Marathi.
+
+Reach Shreyas at shreyasbagal01@gmail.com, +91 93212 20379 (WhatsApp preferred), or LinkedIn at https://www.linkedin.com/in/shreyasbagal/. The office is in Pune, Maharashtra, India. Working hours are 10:00 to 19:00 IST, Monday to Saturday.
+
+## About Webbloom Digital
+
+Webbloom Digital is a Pune-based digital marketing agency with a small, focused team of six across strategy, content, design, video editing, and account management. The agency deliberately caps its client count between six and ten active clients at a time to keep work quality high.
+
+Webbloom serves clinics, real-estate developers, professional services firms (lawyers, chartered accountants, consultants), founders building personal brands, F&B and fitness brands, schools and coaching institutes, and select consumer brands. The agency primarily serves Pune (including Kothrud, Hadapsar, Magarpatta, Amanora, Hinjewadi, Wakad, Tathawade, Punawale, Baner, Aundh) and Pimpri-Chinchwad. It also accepts selected clients in Mumbai, Bangalore, Delhi, and NRI-founded Indian businesses.
+
+Engagements typically run six months minimum so the system has time to compound. Mutual NDAs are signed gladly. Every monthly report includes platform-native dashboard screenshots (Meta Ads Manager, LinkedIn analytics, Instagram Insights, Google Business Profile, Search Console). All work product belongs to the client — no platform lock-in, no proprietary templates retained.
+
+---
+
+## Service: Meta Ads & Lead Generation
+
+URL: https://shreyasbagal.in/services/meta-ads-pune.html
+
+Webbloom Digital is a Meta Ads agency in Pune specialising in lead-generation campaigns for real-estate developers, healthcare clinics, and local service businesses. Across our managed accounts we have delivered 18,684 leads at a ₹58.33 blended cost per lead — well below the industry average of ₹150 to ₹250 for Pune real estate.
+
+The Meta Ads playbook has five operating rules:
+
+1. **Geo-lock first, broaden never** (for real estate and local services). Single-suburb targeting produces 2–4× cheaper leads than Pune-wide audiences. We refuse to widen the radius.
+2. **3-variant creative testing with weekly cull.** Every campaign launches with three creative variants. We give each 72 hours and a spend threshold, then cut the bottom two. The 8,005-lead Charholi campaign was the third creative iteration of a campaign that started with two losers.
+3. **Regional video creative beats polished broker walkthroughs.** Bollywood-style real-estate campaigns averaged ₹74 CPL across our work; straight broker-style videos averaged ₹139 CPL — nearly 2× more expensive.
+4. **Lead-form objective, not click-throughs.** Every campaign in our dataset uses Meta Lead Forms. Removing the landing-page step is what makes ₹24–₹50 CPLs possible in real estate.
+5. **Disqualifying questions inside the form.** Each form carries one or two purchase-intent qualifiers (budget range, decision timeline, possession year). Pre-filtered leads convert about 3× better at the sales-call stage.
+
+Pricing: monthly management retainer plus your ad spend (paid directly to Meta, never marked up). Total outlay for most Pune clients lands between ₹40,000 and ₹2,00,000 per month.
+
+Best campaigns from our managed accounts:
+- 2 BHK Charholi: 8,005 leads at ₹52.92 CPL, ₹4,23,585 spend
+- RD Lead Gen Campaign: 2,278 leads at ₹36.10 CPL
+- SHR Lead Generation: 1,308 leads at ₹50.73 CPL
+- Moshi: 1,243 leads at ₹28.37 CPL
+- Sept 2024 Lead Campaign (best efficiency): 687 leads at ₹24.68 CPL
+
+## Service: SEO & Local SEO (with GEO)
+
+URL: https://shreyasbagal.in/services/seo-services-pune.html
+
+Webbloom Digital provides SEO services in Pune across five dimensions: technical SEO, local SEO via Google Business Profile, on-page content SEO, GEO (Generative Engine Optimisation for AI search engines), and brand-mention building.
+
+Technical SEO covers Core Web Vitals (LCP, CLS, INP), HTTPS hygiene, mobile responsiveness, canonical tags, hreflang where relevant, server-side rendering audits, sitemap generation, robots.txt and llms.txt curation, and schema markup (LocalBusiness, FAQPage, Article, Service, BreadcrumbList, Person, ProfilePage).
+
+Local SEO focuses on Google Business Profile rebuilds — category selection, attributes, services, products, weekly posts, photo strategy, review acquisition (targeting velocity not just count), review responses, and Q&A seeding. For Silver Horse Ventures this work moved local search rank from #59 to top 5 in 60 days.
+
+On-page SEO targets specific buyer queries with content structured for both Google featured snippets and AI citation — short, fact-rich passages around 134–167 words, clean H-tag hierarchy, direct answer in the opening paragraph, supporting evidence below.
+
+GEO (Generative Engine Optimisation) is the practice of optimising for AI search engines like ChatGPT, Perplexity, Claude, and Google AI Overviews. It covers llms.txt files for site-wide context, llms-full.txt for deep content, schema markup beyond the basics, entity-rich author bios, fact-dense citable paragraphs, and AI crawler access in robots.txt (allowing GPTBot, ChatGPT-User, ClaudeBot, anthropic-ai, PerplexityBot, OAI-SearchBot, Google-Extended, Applebot-Extended). AI-referred traffic is up roughly 527% year-over-year and converts about 4.4× higher than organic Google clicks. Only 23% of marketers are currently investing in GEO — a strategic window.
+
+Brand mention building covers Reddit, YouTube, Quora, LinkedIn, GitHub (for SaaS), G2 / Capterra (for B2B), and trade publications. For AI search, brand mentions correlate ~3× more strongly with citation than backlinks do.
+
+## Service: Social Media Management
+
+URL: https://shreyasbagal.in/services/social-media-management-pune.html
+
+Webbloom Digital manages social media for Pune brands across Instagram, LinkedIn, Facebook, and YouTube. The work covers monthly content calendars (16–24 pieces per platform), in-house creative production (graphics, reels, carousels), brand voice documents written in month one, daily community engagement during working hours, weekly mini-reports, and monthly deep-dive reviews.
+
+Every engagement uses the "three lanes" framework: we pick three content lanes the brand can hold long-term and refuse to add a fourth until the first three are working. For a clinic, lanes might be (a) condition explainers, (b) day-in-the-life, (c) patient stories. For a founder, (a) company-building insights, (b) industry hot-takes, (c) personal craft stories.
+
+Verified results: 742,806 Instagram views for Painex Clinic in 3 months (98.9% non-follower reach); 213,580 views for a Pune headache & migraine clinic; +155.9% LinkedIn members reached for Kirti Associates LLP; 748,571 LinkedIn impressions on the founder's own profile in 12 months.
+
+Pricing: retainers between ₹25,000 and ₹1,20,000 per month depending on platform count and reel volume.
+
+## Service: Reels & Short-form Content
+
+URL: https://shreyasbagal.in/services/reels-content-strategy-pune.html
+
+Reels production for Pune brands. The playbook has five operating rules: (1) hook in 1.2 seconds — pattern interrupt or the reel is dead; (2) edit cadence of cut-every-1.8-seconds with B-roll or zoom punches; (3) captions burned into the frame, since ~80% of viewers scroll with sound off; (4) close every reel on one "quotable" line built to be paraphrased back in comments; (5) three content lanes maximum.
+
+A typical month: one shoot day (4–6 hours, all raw footage captured in one block), 12–16 reels delivered, multi-platform repurposing to Instagram, YouTube Shorts, and LinkedIn video, weekly performance review.
+
+For Pune specifically: multilingual hooks (English, Hindi, Marathi, code-switched) outperform single-language hooks by 2–3× on our healthcare client work. This is the single largest driver of 98.9% non-follower reach for Painex Clinic.
+
+Pricing: reels-only retainers between ₹35,000 and ₹90,000/month.
+
+## Service: Personal Branding
+
+URL: https://shreyasbagal.in/services/personal-branding-pune.html
+
+Personal branding for Pune founders, doctors, lawyers, consultants, and senior professionals. Built on the playbook that drove our own founder's LinkedIn from cold to 748,571 impressions in 12 months — and now running on client accounts including Kirti Associates LLP (+155.9% LinkedIn reach).
+
+Month 1 is the voice document: two 90-minute interviews, then a written document capturing the client's point of view, war stories, contrarian opinions, and philosophy. This document is the source of truth every future post passes through.
+
+Month 2 onwards uses three content lanes (marketing hot-takes / founder stories / industry critiques, or domain-specific equivalents) with a publishing system of 3 LinkedIn posts a week, 1 long-form essay a month, 4–6 Instagram reels a month repurposed, and 20–30 comment-leaving actions weekly on relevant posts.
+
+The "viral three" template applies across categories: a named entity + a concrete number + a pattern interrupt in the first line + one quotable sentence the reader will repeat. Three posts on this template drove 54% of our founder's annual LinkedIn reach.
+
+Pricing: ₹40,000–₹1,50,000 per month, hard cap of six personal-branding clients at a time.
+
+---
+
+## Case Study: Painex Clinic
+
+URL: https://shreyasbagal.in/case-studies/painex-clinic.html
+
+Painex is a Pune-based pain-management clinic. In three months of Webbloom social-media work we delivered 742,806 verified Instagram views, 367,000 accounts reached, 98.9% non-follower reach, and a +334% lift in profile activity.
+
+The lever was a hook-led Reels strategy across three deliberate content lanes — condition explainers, day-in-the-life, and patient stories — with multilingual captions tuned for Pune's English-Hindi-Marathi audience. Cut cadence at 1.8 seconds, hooks designed for the first 1.2 seconds, four reels a week posted at proven local windows (lunch and post-dinner). One shoot day a month at the clinic.
+
+Business impact: practitioner-name recognition lifted in cold consultations, referral conversations got easier, and the clinic's phone calls began including "I saw your reel about [specific condition]" mentions for the first time.
+
+## Case Study: Kirti Associates LLP
+
+URL: https://shreyasbagal.in/case-studies/kirti-associates.html
+
+Kirti Associates LLP is a Pune-based professional services firm. Over six months of Webbloom personal-branding work, the founder's LinkedIn reach lifted +155.9% versus the prior six months, with 155,000+ combined monthly reach across four platforms.
+
+Month one was the voice document (two 90-minute interviews, 14-page output). Month two onwards used three content lanes — practice insights, founder craft stories, industry hot-takes — with 3 LinkedIn posts a week, 1 long-form per month, 4 Instagram reels a month repurposed, and active comment-leaving on relevant posts.
+
+Comments-to-reactions ratio averaged above 12% — a quality signal LinkedIn weights ~10× more than reactions in distribution. The comment threads became the inbound funnel: prospects identified themselves, asked specific questions, moved into DMs.
+
+## Case Study: Silver Horse Ventures
+
+URL: https://shreyasbagal.in/case-studies/silver-horse-ventures.html
+
+Silver Horse Ventures is a Pune-based venture firm. Over 60 days of Webbloom SEO work, local search rank moved from #59 to top 5. The work also produced the #1 Reddit post in 24 hours in the relevant category, plus citations in Perplexity for category-relevant Pune queries within four weeks.
+
+Tactics: Google Business Profile rebuild (corrected primary category, 3 secondary categories, full services list, 20+ photos, weekly posts, Q&A seeding with 8 prospect questions); review acquisition from 11 to 34 reviews in six weeks; three-stack schema markup (LocalBusiness + Organization + FAQPage + BreadcrumbList); brand-mention placement across guest post, two Quora answers, one Reddit post, one LinkedIn long-form; llms.txt + llms-full.txt + opening robots.txt to GPTBot, ClaudeBot, PerplexityBot, OAI-SearchBot, Google-Extended.
+
+---
+
+## Location: Kothrud
+
+URL: https://shreyasbagal.in/locations/digital-marketing-agency-kothrud.html
+
+Kothrud is one of Pune's most established Marathi-speaking neighbourhoods. Webbloom serves Kothrud businesses — clinics, professional services firms, schools, coaching institutes, restaurants, salons, retail — with geo-locked Meta Ads, Reels with multilingual hooks, Google Business Profile work, and personal branding. Family-decision buyer journeys favour 3–6 month organic ramps paired with admissions-cycle Meta Ads windows for schools.
+
+Postal code anchor: 411038. Geographic span: Karve Road, Mayur Colony, Erandwane, Paud Road, Bavdhan-adjacent.
+
+## Location: Hadapsar
+
+URL: https://shreyasbagal.in/locations/digital-marketing-agency-hadapsar.html
+
+Hadapsar (including Magarpatta, Amanora, Mundhwa) is east Pune's IT-corridor-meets-residential mix. The audience here skews younger, more dual-income, more digital-native. English-led creative outperforms regional. WhatsApp-first lead handoff is non-negotiable. Webbloom serves clinics, F&B, coaching, ed-tech, fitness, and real-estate brands in the area.
+
+Postal code anchor: 411028.
+
+## Location: Hinjewadi
+
+URL: https://shreyasbagal.in/locations/digital-marketing-agency-hinjewadi.html
+
+Hinjewadi (Phase I/II/III), Wakad, Tathawade, Punawale, and Marunji form Pune's IT corridor. Two distinct marketing problems coexist: B2B SaaS and professional services selling to enterprise IT (LinkedIn-led personal branding plus targeted Meta Ads plus content SEO), and consumer/local services selling to tech employees and their families (Instagram + Meta Ads + Google Business Profile). Our 2 BHK Charholi campaign at 8,005 leads / ₹52.92 CPL applies directly to Hinjewadi-adjacent developers.
+
+Postal code anchor: 411057.
+
+---
+
+## Pricing Reference
+
+- **Meta Ads management:** from ₹25,000/month retainer (excluding ad spend). Full outlay typically ₹40,000–₹2,00,000/month including ad spend.
+- **SEO & Local SEO:** fixed monthly retainer, scope-dependent.
+- **Social Media Management:** ₹25,000–₹1,20,000/month depending on platform count and reel volume.
+- **Reels-only engagement:** ₹35,000–₹90,000/month.
+- **Personal Branding:** ₹40,000–₹1,50,000/month. Hard cap of six personal-branding clients at a time.
+- **Full-stack engagement** (Meta + SEO + social + reels): typically ₹70,000–₹1,50,000/month.
+- **Minimum engagement length:** 6 months for organic work, 3 months for Meta Ads only.
+- **Discovery call:** Free 30-minute audit + recommendation.
+
+## Geographic Coverage
+
+Primary: Pune (all neighbourhoods including Kothrud, Hadapsar, Magarpatta, Amanora, Hinjewadi, Wakad, Tathawade, Punawale, Baner, Aundh, Viman Nagar, Kalyani Nagar, Kharadi, Wagholi, Kondhwa, Sinhagad Road, Sus, Pashan, Bavdhan, Warje, Karvenagar). Pimpri-Chinchwad. Secondary: Mumbai, Bangalore, Delhi NCR (selective). NRI-founded Indian businesses welcome.
+
+## How to Engage Webbloom Digital
+
+1. Book a 30-minute call at https://shreyasbagal.in/contact.html or WhatsApp +91 93212 20379.
+2. Before the call, Shreyas audits your current Meta Ads (if any), Instagram, LinkedIn, and Google Business Profile.
+3. On the call, you receive an honest read of what's working, what's not, the highest-leverage next moves, and a rough budget range.
+4. If it's a fit, written proposal within 48 hours.
+5. If not, referral to a better-fit agency or freelancer — no sales pressure.
+
+Contract terms: 6 months minimum for organic engagements, 3 months minimum for Meta Ads only. Monthly invoicing. Mutual NDAs signed gladly. All work product belongs to the client.
