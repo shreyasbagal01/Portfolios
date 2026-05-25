@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/assets/banner.svg" alt="Webbloom Digital — Pune-based digital marketing agency" width="100%">
+  <img src="assets/banner.svg" alt="Webbloom Digital — Pune-based digital marketing agency" width="100%">
 </div>
 
 <p align="center">
@@ -21,7 +21,7 @@ Every public-facing number on this site is **screenshot-verifiable inside platfo
 <br>
 
 <div align="center">
-  <img src=".github/assets/geo-score.svg" alt="GEO composite score: 81.7 / 100, Strong tier. Breakdown across 6 dimensions." width="92%">
+  <img src="assets/geo-score.svg" alt="GEO composite score: 81.7 / 100, Strong tier. Breakdown across 6 dimensions." width="92%">
 </div>
 
 <br>
@@ -42,7 +42,7 @@ Every public-facing number on this site is **screenshot-verifiable inside platfo
 ## Site architecture
 
 <div align="center">
-  <img src=".github/assets/architecture.svg" alt="Isometric architecture diagram showing the four content tiers stacked over the entry tier" width="92%">
+  <img src="assets/architecture.svg" alt="Isometric architecture diagram showing the four content tiers stacked over the entry tier" width="92%">
 </div>
 
 <br>
@@ -150,11 +150,10 @@ Webbloom_Deploy/
 │   ├── local-seo-google-business-profile.html
 │   └── reels-content-strategy.html
 │
-└── .github/
-    └── assets/                                 — SVG assets for this README only (not deployed)
-        ├── banner.svg
-        ├── architecture.svg
-        └── geo-score.svg
+└── assets/                                     — SVG assets referenced by this README
+    ├── banner.svg
+    ├── architecture.svg
+    └── geo-score.svg
 ```
 
 > **Note:** the `off-site-seo/` folder, if present, holds copy-paste drafts for Reddit / Quora / Wikipedia / trade press / podcasts. It is **not** part of the deployable site. Add it to `.gitignore` or rename to `_off-site-seo/` to exclude from GitHub Pages.
